@@ -164,4 +164,4 @@ October 2020 had the highest recovery ratio due to improved treatment protocols.
 - README.md              — Project documentation
 
 ## 👤 Author
-Your Name
+Shailesh Khosare
